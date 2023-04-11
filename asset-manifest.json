@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/draw-board/static/css/main.614c6fc1.css",
+    "main.js": "/draw-board/static/js/main.3c3a9b32.js",
+    "index.html": "/draw-board/index.html",
+    "main.614c6fc1.css.map": "/draw-board/static/css/main.614c6fc1.css.map",
+    "main.3c3a9b32.js.map": "/draw-board/static/js/main.3c3a9b32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.614c6fc1.css",
+    "static/js/main.3c3a9b32.js"
+  ]
+}
