@@ -23,10 +23,10 @@ export default function Squares() {
 
     if (e.type === "mouseover") {
       target.style.background = colorBg;
-			target.style.boxShadow = `0 0 2px ${colorBg}, 0 0 10px ${colorBg}`;
+      target.style.boxShadow = `0 0 2px ${colorBg}, 0 0 10px ${colorBg}`;
     } else {
       target.style.background = "";
-			target.style.boxShadow = "";
+      target.style.boxShadow = "";
     }
   };
 
